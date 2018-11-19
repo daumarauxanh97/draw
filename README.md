@@ -11,4 +11,5 @@
 - [frontend1.6](https://daumarauxanh97.github.io/thucHanh2/images/My-profile.png)
 
 ### Liên kết
-- 
+- [frontend1.5](https://daumarauxanh97.github.io/draw/frontend1_5.xml)
+- [frontend1.6](https://daumarauxanh97.github.io/draw/frontend1_6.xml)
