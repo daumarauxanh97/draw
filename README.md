@@ -7,8 +7,8 @@
 ## Người thực hiện : Lê Đức Thắng
 
 ### Ảnh
-- [frontend1.5](https://daumarauxanh97.github.io/draw/tinyone-1.png)
-- [frontend1.6](https://daumarauxanh97.github.io/draw/My%20profile.png)
+- [frontend1.5](https://daumarauxanh97.github.io/thang97.github.io/images/tinyone-1.png)
+- [frontend1.6](https://daumarauxanh97.github.io/thucHanh2/images/My-profile.png)
 
 ### Liên kết
 - 
